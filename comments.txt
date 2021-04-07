@@ -1,0 +1,1 @@
+Use Alt + Enter to quit fullscreen and view in maximized window mode.
